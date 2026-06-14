@@ -30,7 +30,7 @@ Validated revenue_realized logic (100% for Checked Out/No Show, 40% for Cancelle
 3. Data Investigation (SQL)
 
 First used Power Pivot in Excel to create data model and do initial level investigation.
-Used MySQL Workbench to run investigative queries — total revenue, occupancy %, cancellation rate, city-wise and property-wise performance, platform and room category analysis.
+Used MySQL Workbench to run investigative queries — total revenue, occupancy %, cancellation rate, city-wise and property-wise performance, platform and room category analysis. The SQL script for the following is [here](hospitality-atliQ.sql).
 
 4. Data Modeling (Power BI)
 
